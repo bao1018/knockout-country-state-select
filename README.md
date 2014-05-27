@@ -1,1 +1,1 @@
-## A Knockout.js plugin for cascad Country - State Selector
+## A Knockout.js plugin for cascade Country - State Selector
